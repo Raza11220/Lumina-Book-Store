@@ -17,7 +17,7 @@ A modern Full-Stack Book Store Web Application built with React, TypeScript, Vit
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-3FCF8E?logo=supabase)
 ![Clerk](https://img.shields.io/badge/Clerk-Authentication-6C47FF)
 
-![1785570303970](image/README/1785570303970.png)
+![1785571838961](image/README/1785571838961.png)
 
 </p>
 
