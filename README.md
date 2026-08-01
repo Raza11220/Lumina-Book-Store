@@ -1,10 +1,6 @@
 # 📚 Lumina Book Store
 
 <p align="center">
-  <img src="image/logo.png" alt="Lumina Book Store Logo" width="180"/>
-</p>
-
-<p align="center">
 A modern Full-Stack Book Store Web Application built with React, TypeScript, Vite, Supabase, Clerk Authentication, and Tailwind CSS.
 </p>
 
